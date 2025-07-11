@@ -20,4 +20,4 @@ let isloggedIn = false
 
 
 console.log(typeof undefined); //undefind hi ata hai
-console.log(typeof null); //object
+console.log(typeof null); //object;
